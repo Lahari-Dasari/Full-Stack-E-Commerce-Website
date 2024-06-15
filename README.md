@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    
-    ```cd Full-Stack-E-Commerce-Website
+    ``` cd Full-Stack-E-Commerce-Website
 
 3. **Install dependencies:**
 
